@@ -1,0 +1,4 @@
+# config/routes.yaml
+index:
+    path: /{one}/add/{two}
+    controller: 'App\Controller\CalculatorController::add'
